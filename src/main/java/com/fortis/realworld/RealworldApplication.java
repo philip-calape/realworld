@@ -12,13 +12,13 @@ public class RealworldApplication {
 	
 	/*	DONE
 			1. Create Entities
-		TODO
 				USER
 					-id
 					-email
 					-password
 					-followingUsers
-					-articleFavorited 
+					-articleFavorited
+		TODO
 				PROFILE
 					-username
 					-bio
