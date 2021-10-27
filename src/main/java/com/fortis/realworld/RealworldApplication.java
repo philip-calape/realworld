@@ -9,15 +9,16 @@ public class RealworldApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(RealworldApplication.class, args);
 	}
-	/*
-		TODO
+	
+	/*	DONE
 			1. Create Entities
+		TODO
 				USER
 					-id
 					-email
 					-password
 					-followingUsers
-					-articleFavorited
+					-articleFavorited 
 				PROFILE
 					-username
 					-bio
@@ -35,6 +36,6 @@ public class RealworldApplication {
 					-article
 					-createdAt
 					-updatedAt
-					-body
-	 */
+					-body						 		
+	 */	
 }
